@@ -7,7 +7,9 @@ Malay Fake News Classification using:
 </br>5.  FT-BERT [7]
 </br>6.  BERTCNN (A unique method in this project that uses the sequence output from the last BERT layer to be provided to CNN layers).
 
-The result of this project produced a filtered Malay fake news dataset which can be downloaded from **malaya_fake_news_preprocessed_dataframe.pkl** (available via the link in malay-fake-news-dataset.txt).
+The result of this project produced a filtered Malay fake news dataset which can be downloaded from **malaya_fake_news_preprocessed_dataframe.pkl**
+</br>(available via the link in malay-fake-news-dataset.txt or at 
+</br>https://www.dropbox.com/s/i5yx6e426m8frgs/malaya_fake_news_preprocessed_dataframe.pkl?dl=0).
 </br>The news articles from the original dataset [1] that cannot be correctly classified by all the models are treated as outliers and filtered out.
 
 The following command will load and display the dataset:
