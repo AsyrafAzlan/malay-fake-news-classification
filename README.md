@@ -12,7 +12,7 @@ The result of this project produced a filtered Malay fake news dataset which can
 </br>https://www.dropbox.com/s/i5yx6e426m8frgs/malaya_fake_news_preprocessed_dataframe.pkl?dl=0).
 </br>The news articles from the original dataset [1] that cannot be correctly classified by all the models are treated as outliers and filtered out.
 
-The following command will load and display the dataset:
+The following command in Python will load and display the dataset:
 ```bash
 import pandas as pd
 df_allnews_unpickled = pd.read_pickle("./malaya_fake_news_preprocessed_dataframe.pkl")
