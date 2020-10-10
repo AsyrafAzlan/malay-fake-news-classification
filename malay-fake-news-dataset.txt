@@ -1,0 +1,4 @@
+The malay fake news dataset exceeds the default limit to be uploaded here.
+Please download from the following Dropbox link (351.29 MB):
+
+https://www.dropbox.com/s/i5yx6e426m8frgs/malaya_fake_news_preprocessed_dataframe.pkl?dl=0
