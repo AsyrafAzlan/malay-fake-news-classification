@@ -63,8 +63,8 @@ The following experiments/modifications were done before filtering the outliers 
 **Disclaimer:**  The "how-to" files may display some old results though with accurate process and methodology.
 
 The original dataset, toolkit and pre-trained BERT model are provided by:
-</br>[1] Zolkepli, Husein. “Malaya-Dataset.” Github-huseinzol05/Malaya-Dataset: Text corpus for Bahasa Malaysia. https://github.com/huseinzol05/Malaya-Dataset (accessed April 29, 2019).
-</br>[2] Zolkepli, Husein. “Malaya.” Github-huseinzol05/Malaya: Natural-Language-Toolkit for Bahasa Malaysia. https://github.com/huseinzol05/Malaya (accessed April 29, 2019).
+</br>[1] Zolkepli, Husein. “Malay-Dataset.” Github-huseinzol05/Malay-Dataset: Text corpus for Bahasa Malaysia. https://github.com/huseinzol05/Malay-Dataset 
+</br>[2] Zolkepli, Husein. “Malaya.” Github-huseinzol05/Malaya: Natural-Language-Toolkit for Bahasa Malaysia. https://github.com/huseinzol05/Malaya 
 
 The chosen model architectures for this project are applications of the following papers:
 </br>[3] Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014).
