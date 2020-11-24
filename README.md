@@ -67,8 +67,8 @@ The original dataset, toolkit and pre-trained BERT model are provided by:
 </br>[2] Zolkepli, Husein. “Malaya.” Github-huseinzol05/Malaya: Natural-Language-Toolkit for Bahasa Malaysia. https://github.com/huseinzol05/Malaya (accessed April 29, 2019).
 
 The chosen model architectures for this project are applications of the following papers:
-</br>[3] Kim, Yoon. "Convolutionalneural networks for sentence classification." arXivpreprint arXiv:1408.5882 (2014).
+</br>[3] Kim, Yoon. "Convolutional neural networks for sentence classification." arXiv preprint arXiv:1408.5882 (2014).
 </br>[4] Nowak, Jakub, Ahmet Taspinar, and Rafał Scherer. "LSTM recurrent neural networks for short text and sentiment classification." In International Conference on Artificial Intelligence and Soft Computing, pp. 553-562. Springer, Cham, 2017.
-</br>[5] Zhou, Chunting, Chonglin Sun, Zhiyuan Liu, and Francis Lau. "A C-LSTM neural network for text classification." arXivpreprint arXiv:1511.08630(2015).
-</br>[6] Lai, Siwei, LihengXu, Kang Liu, and Jun Zhao. "Recurrent convolutionalneural networks for text classification." In Twenty-ninth AAAI conference on artificial intelligence. 2015.
-</br>[7] Devlin, Jacob. "Github-google-research/bert: TensorFlowcode and pre-trained models for BERT.” Github.com. https://github.com/google-research/bert (accessed March 09, 2020).
+</br>[5] Zhou, Chunting, Chonglin Sun, Zhiyuan Liu, and Francis Lau. "A C-LSTM neural network for text classification." arXiv preprint arXiv:1511.08630 (2015).
+</br>[6] Lai, Siwei, Liheng Xu, Kang Liu, and Jun Zhao. "Recurrent convolutionalneural networks for text classification." In Twenty-ninth AAAI conference on artificial intelligence. 2015.
+</br>[7] Devlin, Jacob. "Github-google-research/bert: TensorFlow code and pre-trained models for BERT.” Github.com. https://github.com/google-research/bert (accessed March 09, 2020).
