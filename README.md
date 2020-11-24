@@ -7,6 +7,10 @@ Malay Fake News Classification using:
 </br>5.  FT-BERT [7]
 </br>6.  BERTCNN (A unique method in this project that uses the sequence output from the last BERT layer to be provided to CNN layers).
 
+The preprocessed Word2Vec collaterals which Item 1 - 4 heavily depended on can be obtained via:
+</br>https://www.dropbox.com/s/pm9rrynspp16det/malay_word2vec.zip?dl=0
+</br>Please see my "malay-word2vec-tsne" repo to see how they are preprocessed.
+
 The result of this project produced a filtered Malay fake news dataset which can be downloaded from **malaya_fake_news_preprocessed_dataframe.pkl**
 </br>(available via the link in malay-fake-news-dataset.txt or at 
 </br>https://www.dropbox.com/s/i5yx6e426m8frgs/malaya_fake_news_preprocessed_dataframe.pkl?dl=0).
@@ -42,7 +46,7 @@ df_allnews_unpickled
 
 -----------------
 
-The following experiments/modifications were done before filtering the outliers to achieve the best result:
+The following experiments/modifications were done before filtering the outliers to achieve the best result/dataset:
 * **Normal**:  All fake news articles originally from [1] are considered.
 * **<1000**:  Only news articles with less than 1000 words are considered because those with more are very few in numbers.
 * **Trunc128**:  All news articles are truncated to have a maximum sequence length of 128 (the standard for BERT models in this project).
