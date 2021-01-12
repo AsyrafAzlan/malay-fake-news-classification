@@ -62,6 +62,14 @@ The following experiments/modifications were done before filtering the outliers 
 
 **Disclaimer:**  The "how-to" files may display some old results though with accurate process and methodology.
 
+The work done in this project is part of the following publication:
+</br>"A Benchmark Evaluation Study for Malay Fake News Classification Using Neural Network Architectures"
+</br>Published in Kazan Digital Week 2020. Methodical and Informational Science Journal, Vestnik NTsBZhD(4), pp.  5-13, 2020.
+</br>https://ncbgd.tatarstan.ru/rus/file/pub/pub_2610566.pdf
+</br>http://www.vestnikncbgd.ru/index.php?id=1&lang=en
+</br>https://kazandigitalweek.com/
+
+
 The original dataset, toolkit and pre-trained BERT model are provided by:
 </br>[1] Zolkepli, Husein. “Malay-Dataset.” Github-huseinzol05/Malay-Dataset: Text corpus for Bahasa Malaysia. https://github.com/huseinzol05/Malay-Dataset 
 </br>[2] Zolkepli, Husein. “Malaya.” Github-huseinzol05/Malaya: Natural-Language-Toolkit for Bahasa Malaysia. https://github.com/huseinzol05/Malaya 
